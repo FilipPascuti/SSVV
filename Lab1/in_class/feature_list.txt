@@ -1,0 +1,7 @@
+Features:
+    - almost friendly ui
+    - listing students
+    - listing lab themes
+    - listing grades
+    - adding a new student
+    - deleting a lab theme
